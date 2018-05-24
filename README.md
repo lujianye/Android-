@@ -20,7 +20,7 @@ Android开源项目库汇总
   
   >https://github.com/H07000223/FlycoPageIndicator 
   >>A Page Indicator Lib is realized in a different way,圆点、方块、线、心形</br>
-  
+  
   >https://github.com/florent37/ViewTooltip 
   >>A fluent tooltip for Android.</br>
   
@@ -41,7 +41,7 @@ Android开源项目库汇总
   
   >https://github.com/DuanJiaNing/IndicatorView 
   >>自定义View和属性动画结合实现支持动态修改指示点位置，拖拽或点击改变指示点位置，点击位置监听及切换动画自定义的圆点指示器。</br>
-  
+  
   >https://github.com/Modificator/CircleIndicator 
   >>CircleIndicator for ViewPager,一种很有意思的效果，在指示器的边线有一个圆环，随着ViewPager的滑动，圆环动画移动到下一个圆点</br>
   
