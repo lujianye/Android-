@@ -2,6 +2,7 @@ Android开源项目库汇总
 ===
 
 # 轮播图
+
   >https://github.com/LinweiJ/ViewPagerIndicator 
   >>一个简单好用的ViewPagerIndicator，提供了五种类型，为viewpager添加酷炫效果，并且支持轮播图</br>
   
@@ -45,9 +46,9 @@ Android开源项目库汇总
   >>CircleIndicator for ViewPager,一种很有意思的效果，在指示器的边线有一个圆环，随着ViewPager的滑动，圆环动画移动到下一个圆点</br>
   
   
-  # 进度条
+# 进度条
   
-  ## 圆形进度条
+## 圆形进度条
   >https://github.com/silverforge/BusyIndicator 
   >>The BusyIndicator is a progress indicator with determined and indeterminate mode.
   
@@ -55,7 +56,7 @@ Android开源项目库汇总
   >>Customizable circular progress indicator</br>
   
   
-  # 底部导航
+# 底部导航
   
   >https://github.com/jeasonlzy/AlphaIndicatorView  
   >>仿微信底部tab标签，滑动的时候颜色渐变，使用极其简单，只需要两行代码。</br>
@@ -64,13 +65,13 @@ Android开源项目库汇总
   >>改造TabLayout，修改指示线宽增加切Tab过渡动画</br>
   
   
-  # LoadingView
+# LoadingView
   
   >https://github.com/team-supercharge/FunnyLoader  
   >>Loading indicator for android with over 200 random messages</br>
   
   
-  # 顶部导航
+# 顶部导航
   
   >https://github.com/shanyao0/TabPagerIndicatorDemo  
   >>一个强大的顶部标题导航栏，支持6种不同的模式</br>
@@ -79,6 +80,6 @@ Android开源项目库汇总
   >>仿猫眼顶部切换栏，且添加滑动到左右边缘回弹效果，更有弹性!</br>
   
   
-  # 轮播图
+# 轮播图
   
   >https://github.com/LinweiJ/BannerView  一个基于FrameLayout+ViewPager+FragmentPagerAdapter的轮播图</br>
