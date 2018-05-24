@@ -83,3 +83,20 @@ Android开源项目库汇总
   
   >https://github.com/LinweiJ/BannerView  
   >>一个基于FrameLayout+ViewPager+FragmentPagerAdapter的轮播图</br>
+  
+# RecycleView
+  >
+  
+<h2>抽屉菜单</h2>
+<ul>
+<li><a href="https://github.com/mikepenz/MaterialDrawer">MaterialDrawer</a> ★7337 - 安卓抽屉效果实现方案</li>
+<li><a href="https://github.com/Yalantis/Side-Menu.Android">Side-Menu.Android</a> ★3865 - 创意边侧菜单</li>
+<li><a href="https://github.com/mxn21/FlowingDrawer">FlowingDrawer</a> ★1744 - 向右滑动流动抽屉效果</li>
+<li><a href="https://github.com/yarolegovich/SlidingRootNav">SlidingRootNav</a> ★1338 - 仿DrawerLayout的ViewGroup</li>
+<li><a href="https://github.com/mzule/FantasySlide">FantasySlide</a> ★1049 - 单手势滑出侧边栏与选择菜单</li>
+<li><a href="https://github.com/andremion/Floating-Navigation-View">Floating-Navigation-View</a> ★779 - 浮动菜单显示锚导航视图</li>
+<li><a href="https://github.com/heinrichreimer/material-drawer">material-drawer</a> ★525 - MD风格的自定义抽屉实现</li>
+<li><a href="https://github.com/Brioal/SwipeMenuDemo">SwipeMenuDemo</a> ★514 - 侧滑菜单动画效果库</li>
+<li><a href="https://github.com/rom4ek/ArcNavigationView">ArcNavigationView</a> ★326 - 具有曲线边缘的NavigationView</li>
+<li><a href="https://github.com/drakeet/QQSliddingMenu">QQSliddingMenu</a> ★106 - 与QQ5.0 完全一模一样的侧滑菜单</li>
+<li><a href="https://github.com/lemonade-hq/SlideSideMenu">SlideSideMenu</a> ★60 - 滑动侧菜单的布局部件</li>
