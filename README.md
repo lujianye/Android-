@@ -425,7 +425,7 @@ Android开源项目库汇总
 </ul>
 <h2>RecyclerView</h2>
 <ul>
-<li><a href="https://github.com/CymChad/BaseRecyclerViewAdapterHelper">BaseRecyclerViewAdapterHelper</a> ★6876 - 强大灵活的RecyclerAdapter</li>
+<li><a href="https://github.com/CymChad/BaseRecyclerViewAdapterHelper">BaseRecyclerViewAdapterHelper</a> ★13599 - 强大灵活的RecyclerAdapter</li>
 <li><a href="https://github.com/wasabeef/recyclerview-animators">recyclerview-animators</a> ★5977 - 轻松创建动画RecyclerView</li>
 <li><a href="https://github.com/cymcsg/UltimateRecyclerView">UltimateRecyclerView</a> ★5332 - 功能强大的Recyclerview</li>
 <li><a href="https://github.com/alibaba/vlayout">vlayout</a> ★3453 - 布局方案和布局间的组件复用</li>
