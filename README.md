@@ -1051,7 +1051,7 @@ Android开源项目库汇总
 <li><a href="https://github.com/IntruderShanky/Flare">Flare</a> ★56 - 简单的循环指示器实现</li>
 <li><a href="https://github.com/13456961183/RecyclerBanner">RecyclerBanner</a> ★26 - 使用RecyclerView 实现的轮播图</li>
 <li><a href="https://github.com/genius158/simplebanner">simplebanner</a> ★16 - 基于adapter的轮播图实现</li>
-<li><a href="https://github.com/LinweiJ/ViewPagerIndicator">ViewPagerIndicator</a> ★16 - 一个简单好用的ViewPagerIndicator，提供了五种类型，为viewpager添加酷炫效果，并且支持轮播图</li>
+<li><a href="https://github.com/LinweiJ/ViewPagerIndicator">ViewPagerIndicator</a> ★55 - 一个简单好用的ViewPagerIndicator，提供了五种类型，为viewpager添加酷炫效果，并且支持轮播图</li>
   
   >https://github.com/Dsiner/UIUtil   
   >>歌词控件、打勾动画、对比、卫星菜单、点赞、滑动按钮、TAB指示器、联系人排序、拖曳排序、侧滑删除、阴影效果.、RecyclerView嵌套RecyclerView…</br>
