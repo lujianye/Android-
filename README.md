@@ -47,7 +47,7 @@ Android开源项目库汇总
   
   # 进度条
   
-  ##  圆形进度条
+  ## 圆形进度条
   >https://github.com/silverforge/BusyIndicator 
   >>The BusyIndicator is a progress indicator with determined and indeterminate mode.
   
