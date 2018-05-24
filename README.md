@@ -17,7 +17,7 @@ Android开源项目库汇总
   
   >https://github.com/nekocode/ToolbarIndicator 
   >>A toolbar indicator for android, likes twitter's.</br>
-  
+  
   >https://github.com/H07000223/FlycoPageIndicator 
   >>A Page Indicator Lib is realized in a different way,圆点、方块、线、心形</br>
   
